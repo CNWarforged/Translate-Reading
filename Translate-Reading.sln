@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translate-Reading", "Translate-Reading.csproj", "{035DB84A-C7AB-40A4-BD68-5EC62DF589F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035DB84A-C7AB-40A4-BD68-5EC62DF589F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035DB84A-C7AB-40A4-BD68-5EC62DF589F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035DB84A-C7AB-40A4-BD68-5EC62DF589F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035DB84A-C7AB-40A4-BD68-5EC62DF589F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2745A5D-0948-4EDE-A233-D53D3753CC59}
+	EndGlobalSection
+EndGlobal
